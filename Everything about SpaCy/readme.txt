@@ -12,3 +12,5 @@ Here’s a step-by-step outline of the blog.
 6. Rule-Based NER
 7. RegEx Role in SpaCy
 8. Build Custom NER
+
+You can read my article at https://medium.com/@meermoazzam41/nlp-with-spacy-and-python-33e24187d7b9
