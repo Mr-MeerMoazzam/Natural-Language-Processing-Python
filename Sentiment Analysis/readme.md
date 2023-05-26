@@ -29,6 +29,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 If you have any questions or feedback regarding this project, please feel free to contact the project maintainer at 
-<a href="(https://www.linkedin.com/in/meermoazzam/)">Moazzam Ali</a>.
+<a href="https://www.linkedin.com/in/meermoazzam/">Moazzam Ali</a>.
 
 Happy sentiment analyzing!
